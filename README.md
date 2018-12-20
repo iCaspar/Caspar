@@ -57,5 +57,5 @@ You can add your own SVG icons in the same manner.
 
 # Copyright & License
 
-Original Casper theme Copyright (c) 2013-2018 Ghost Foundation - Released under the [MIT license](LICENSE).
+Original Casper theme Copyright (c) 2013-2018 Ghost Foundation - Released under the [MIT license](LICENSE).  
 Caspar theme modifications by Caspar Green, also released under the MIT license.
